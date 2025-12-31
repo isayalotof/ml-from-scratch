@@ -1,0 +1,21 @@
+# Compiled files
+*.o
+*.out
+*.exe
+a.out
+
+# Build directories
+build/
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Executables
+knn_classifier
+nn_classifier
